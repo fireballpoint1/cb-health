@@ -49,7 +49,7 @@ The agent Id field should be updatable in the client facility application. Custo
 - Updated API calls (payload and response handling)
 - Custom ID of the agent should be shown in all agent views for the client facility application.
 
-#### Ticket 4 - API implementation
+### Ticket 4 - API implementation
 REST API to allow client facilities to add and update custom IDs. 
 Ripple changes for the feature should be implemented as well (details listed in acceptance criteria)
 #### Estimates
